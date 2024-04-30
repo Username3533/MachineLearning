@@ -64,3 +64,26 @@ from keras.utils import to_categorical
 # new_predictions = model.predict(new_data)
 
 # print('New predictions:', new_predictions)
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# """ Scikit-Learn supervised learning using Iris data set for prediction using Decision Trees """
+
+# #load iris function
+# iris = load_iris()
+
+# #split data set into training and test set
+
+# X_train, X_test, y_train, y_test =  train_test_split(iris.data, iris.target, test_size=0.3, random_state=42)
+
+# #set and train decision tree classifier
+# clf = DecisionTreeClassifier()
+# clf.fit(X_train, y_train)
+
+# #predict test set based on training set results
+# y_pred = clf.predict(X_test)
+# accuracy = accuracy_score(y_test, y_pred)
+
+# print('Accuracy:', accuracy)
+
+# """ Accuracy results 1.0, probliem wit overfitting...probably """
