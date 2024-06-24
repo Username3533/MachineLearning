@@ -8,9 +8,9 @@ Focusing on:
   -Numpy  
   -Pandas  
   -Matplotlib  
-  -PyTorch
-  -TensorFlow
-  -MXNet
-  -JAX
-  -Fastai
-  -Chainer
+  -PyTorch  
+  -TensorFlow  
+  -MXNet  
+  -JAX  
+  -Fastai  
+  -Chainer  
