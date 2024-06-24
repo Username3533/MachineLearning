@@ -10,3 +10,7 @@ Focusing on:
   -Matplotlib  
   -PyTorch
   -TensorFlow
+  -MXNet
+  -JAX
+  -Fastai
+  -Chainer
