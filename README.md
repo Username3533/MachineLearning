@@ -9,3 +9,4 @@ Focusing on:
   -Pandas  
   -Matplotlib  
   -PyTorch
+  -TensorFlow
