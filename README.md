@@ -1,7 +1,7 @@
 # MachineLearning  
 Journey of learning Machine Learning/deep learning/Neural Networks/AI  
 
-Focusing on:  
+## Focusing on:  
 
   -Scikit  
   -Keras  
